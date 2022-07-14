@@ -1,0 +1,4 @@
+module Area where
+
+quadratic :: Double -> Double
+quadratic a = a*a
